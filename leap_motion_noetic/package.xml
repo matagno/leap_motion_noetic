@@ -4,14 +4,19 @@
   <version>0.1.0</version>
   <description>ROS driver for the Leap Motion gesture sensor, based on the original 'leap_motion' package.</description>
 
-
-  <maintainer email="37772537+Tisma09@users.noreply.github.com">Tismo</maintainer>
+  <maintainer email="37772537+matagno@users.noreply.github.com">Mat</maintainer>
 
   <license>BSD</license>
   <url type="website">https://github.com/Tisma09/leap_motion_noetic/</url>
   <url type="repository">https://github.com/Tisma09/leap_motion_noetic/</url>
-  <url type="bugtracker">https://github.com/Tisma09/leap_motion_noetic/</url>
-  <author email="37772537+Tisma09@users.noreply.github.com">Tismo</author>
+  <url type="bugtracker">https://github.com/Tisma09/leap_motion_noetic/issues</url>
+  <author email="37772537+matagno@users.noreply.github.com">Mat</author>
+
+  <!-- Original project for old ROS version -->
+  <url>https://wiki.ros.org/leap_motion</url>
+  <author email="flier@techfak.uni-bielefeld.de">Florian Lier</author>
+  <author email="mas644@gmail.com">Mirza Shah</author>
+  <author email="iiysaito@opensource-robotics.tokyo.jp">Isaac IY Saito</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
